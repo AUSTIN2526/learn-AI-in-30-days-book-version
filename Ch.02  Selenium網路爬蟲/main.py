@@ -30,8 +30,8 @@ def get_web_data(soup):
     web_datas  = soup.select('body > div > table > tbody')
     
     # 將資料轉換成字串
-    web_datas = list(web_datas)[0]
-    input(type(web_datas))
+    web_datas = list(web_datas)[0].text
+   
     # 移除表格換行\n\n與資料欄內的空白
     filter_datas = web_datas.replace('\n\n','').replace(' ','')
     
