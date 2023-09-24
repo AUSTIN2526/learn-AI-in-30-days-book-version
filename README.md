@@ -1,5 +1,6 @@
 ﻿# learn-AI-in-30-days-book-version
 ## 書籍連結
+<img src="https://cf-assets2.tenlong.com.tw/products/images/000/194/264/original/9786263336025.jpg?1695021091" height="30%" width="30%"/> 
 [ChatGPT X Keras X PyTorch全方位應用實踐指南：從零開始的AI程式設計養成之路（iThome鐵人賽系列書）【軟精裝】](https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw)
 
 
