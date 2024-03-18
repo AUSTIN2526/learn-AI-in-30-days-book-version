@@ -41,8 +41,8 @@
 * [Ch.12 ChatGPT Prompt設計與應用](https://github.com/AUSTIN2526/learn-AI-in-30-days-book-version/tree/main/Ch.12%20ChatGPT%20Prompt%E8%A8%AD%E8%A8%88%E8%88%87%E6%87%89%E7%94%A8)
 
 # 本書榮譽
-* ### 2023/09/23 榮登『**天瓏書局**』Banner
-* ### 2023/09/23 榮獲『[天瓏書局 Facebook](https://www.facebook.com/photo/?fbid=706080698229380&set=a.556676983169753)』專欄推薦
-* ### 2023/10/12 首周『銷量排名第2』
-* ### 2023/11/06 首月『銷量排名第9』
-* ### 2024/02/06 受iThome學習部邀請，前往攝影棚講解AI相關知識
+*  2023/09/23 榮登『**天瓏書局**』Banner
+*  2023/09/23 榮獲『[**天瓏書局 Facebook**](https://www.facebook.com/photo/?fbid=706080698229380&set=a.556676983169753)』專欄推薦
+*  2023/10/12 首周『**銷量排名第2**』
+*  2023/11/06 首月『**銷量排名第9**』
+*  2024/02/06 受『[**iThome學習部邀請**](https://itplus.ithome.com.tw/webinar-page/199)』，前往攝影棚講解AI相關知識
